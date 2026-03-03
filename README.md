@@ -6,11 +6,11 @@
 ## 🚀 Professional Overview
 I am a results-driven **Full Stack Developer** from Moradabad, UP, with a strong focus on building secure, scalable, and high-performance web applications. I specialize in the **JAMstack** ecosystem and have a deep interest in web security and automation.
 
-- 🛠️ **Founder:** [YourCoder.in](https://yourcoder.in) - A professional web development agency.
-- 🔭 **Featured Project:** **WebDose** — A Chrome Extension for real-time local web testing and DOM manipulation.
-- 🌱 **Technical Focus:** Currently mastering **Python Automation** and **Advanced Cloud Architecture**.
-- 💬 **Expertise:** PHP (Backend), Next.js (Frontend), SQL, and Vercel/Cloudflare deployments.
-- 🛡️ **Security:** Researching Web Vulnerabilities, SQL Injection, and Android Reverse Engineering.
+- 🛠️ **Founder:** [YourCoder.in](https://yourcoder.in) — Professional Web Development Agency specializing in high-performance digital solutions.
+- 🔭 **Featured Project:** **WebDose** — A Chrome Extension designed for real-time local web testing and DOM manipulation.
+- 🌱 **Technical Focus:** Currently mastering **Python Automation** and **Cloud Infrastructure Optimization**.
+- 💬 **Expertise:** PHP (Backend), Next.js (Frontend), SQL Database Management, and Vercel/Cloudflare Deployments.
+- 🛡️ **Cybersecurity:** Focused on **Web Application Security**, **Vulnerability Assessment**, and **Android Application Analysis**.
 
 ---
 
