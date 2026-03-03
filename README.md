@@ -1,41 +1,31 @@
-# 👨‍💻 Mohd Kaif | Full-Stack Architect & Security Researcher
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
-### 🛠️ Turning Complex Problems into High-Performance Digital Solutions
-Founder of **[YourCoder.in](https://yourcoder.in)** | Specializing in **JAMstack**, **Next.js**, and **Automated Systems**.
+# Hi there, I'm Mohd Kaif 👋
+### Full Stack Developer | Founder of YourCoder.in | Cybersecurity Researcher
 
 ---
 
-## 🚀 Professional Profile
-- 🌐 **Founder & Lead Developer:** Launched **YourCoder.in**, a web agency focused on high-speed, SEO-optimized business portals.
-- 🛡️ **Security Mindset:** Passionate about **VAPT**, Web Scraping, and Android Reverse Engineering.
-- ⚡ **Performance Geek:** Obsessed with < 0.5s load times and 100/100 Lighthouse scores.
-- 📍 **Location:** Moradabad, India (Export Hub Support Specialist).
+## 🚀 Professional Overview
+I am a results-driven **Full Stack Developer** from Moradabad, UP, with a strong focus on building secure, scalable, and high-performance web applications. I specialize in the **JAMstack** ecosystem and have a deep interest in web security and automation.
+
+- 🛠️ **Founder:** [YourCoder.in](https://yourcoder.in) - A professional web development agency.
+- 🔭 **Featured Project:** **WebDose** — A Chrome Extension for real-time local web testing and DOM manipulation.
+- 🌱 **Technical Focus:** Currently mastering **Python Automation** and **Advanced Cloud Architecture**.
+- 💬 **Expertise:** PHP (Backend), Next.js (Frontend), SQL, and Vercel/Cloudflare deployments.
+- 🛡️ **Security:** Researching Web Vulnerabilities, SQL Injection, and Android Reverse Engineering.
 
 ---
 
-## 🛠️ My Digital Toolbox
-
-| Category | Technologies |
+## 🛠 Technical Expertise
+| Domain | Skills & Technologies |
 | :--- | :--- |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **Cybersec** | ![SQLi](https://img.shields.io/badge/SQL_Injection-Red?style=for-the-badge) ![VAPT](https://img.shields.io/badge/Vulnerability_Assessment-orange?style=for-the-badge) ![Reversing](https://img.shields.io/badge/APK_Reversing-blue?style=for-the-badge) |
-| **DevOps** | ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| **Frontend** | React, Next.js, JavaScript (ES6+), Tailwind CSS, HTML5/CSS3 |
+| **Backend** | PHP (OOP), Node.js, Python (Scripting/Automation) |
+| **Databases** | MySQL, PostgreSQL, MongoDB |
+| **DevOps/Tools** | Git, Vercel, Cloudflare Pages, Docker, SMTP Mailers |
+| **Security Tools** | Apktool M, Burp Suite (Basics), Data Scraping, Web Security Research |
 
 ---
 
-## ⚡ Current Missions
-- 🛠️ **WebDose Extension:** Developing a real-time DOM manipulation tool for UI/UX testing.
-- 🛡️ **Bihar Digital Map:** Building a high-performance analytics dashboard for regional market tracking.
-- 📦 **PHP Automation:** Creating custom SMTP mailers and server-side file managers for secure deployments.
-
----
-
-## 📊 Technical Contributions
+## 📊 GitHub Analytics
 
 <p align="center">
   <table align="center">
@@ -48,19 +38,13 @@ Founder of **[YourCoder.in](https://yourcoder.in)** | Specializing in **JAMstack
 
 ---
 
-## 🛡️ Featured Work & Research
-- **[YourCoder.in](https://yourcoder.in):** Built a scalable agency platform hosting 50+ landing pages.
-- **Custom Scrapers:** Engineered PHP scripts to extract and process complex datasets with JSON integration.
-- **Security Audit:** Reported and helped patch data exposure vulnerabilities in regional education portals.
+## 🌐 Professional Links
+[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://yourcoder.in)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohd-kaif003/)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/mohd-kaif003)
 
 ---
-
-## 📫 Let's Build Something Great
-<p align="left">
-  <a href="mailto:kaif@yourcoder.in"><img src="https://img.shields.io/badge/Contact_Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-  <a href="https://yourcoder.in"><img src="https://img.shields.io/badge/Agency_Website-000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<p align="center">
+  <i>"Passionate about writing clean code and securing the web."</i><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer" width="100%"/>
 </p>
-
-> *"Code is like humor. When you have to explain it, it’s bad."*
-
----
